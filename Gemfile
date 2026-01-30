@@ -10,6 +10,7 @@ gem 'loofah', '~> 2.3.1'
 gem 'rails-html-sanitizer', '~> 1.0.4'
 gem 'sqlite3', '~> 1.3.13'
 gem 'turbolinks', '~> 5.2.0'
+gem 'sass-rails', '~> 5.0'
 
 
 
